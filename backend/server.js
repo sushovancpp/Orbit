@@ -10,7 +10,7 @@ dotenv.config();
 
 const connectDB = require('./config/db');
 const { initSocket } = require('./sockets');
-require('./config/passport');
+require('./config/passport')();
 
 const authRoutes = require('./routes/auth');
 const userRoutes = require('./routes/users');
