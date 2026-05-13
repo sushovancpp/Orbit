@@ -1,4 +1,4 @@
-# ⊙ Orbit — Social Platform
+#  Orbit — Social Platform
 
 A full-stack social platform combining the best of Instagram, X (Twitter), and Discord.
 
